@@ -1,0 +1,4 @@
+{
+    "default_threads": 200,
+    "ports_to_scan": [80, 443, 8080]
+}
